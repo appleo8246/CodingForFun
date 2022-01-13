@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(243, 238, 213);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    color: rgb(228, 175, 155);
+    font-size: 100px;
+    text-align: center;
+    margin: 20px auto 5px auto;
+    
+}
+
+.subtitle{
+    color: rgb(228, 175, 155);
+    font-size: 15px;
+    text-align: center;
+    margin: 5px auto 50px;
+}
+
+.img{
+    margin: 20px auto 10px auto;
+    opacity: 0.5;
+    box-shadow:0 0 15px 15px rgb(243, 238, 213),inset 0 0 15px 15px rgb(243, 238, 213);
+}
